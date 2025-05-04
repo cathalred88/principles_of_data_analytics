@@ -1,6 +1,9 @@
 # Principles of data analytics
 
-by Cathal Redmond 
+By Cathal Redmond 
+Completed for fulfilment of Principles of data analytics module at ATU, Jan-May 2025. 
+
+This file will import the Iris dtat set from scikitlearn and perform analysis on the data. 
 
 ## Setup 
 1. Signup for a free Github account 
